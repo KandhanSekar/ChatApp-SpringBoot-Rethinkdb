@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars:momentjs:2.11.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/momentjs/2.11.1/424947d2cf62af2b69d14cb788b0455b7474176f/momentjs-2.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/momentjs/2.11.1/6210faa62309b11cd92897aba06481c6df2cc284/momentjs-2.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
