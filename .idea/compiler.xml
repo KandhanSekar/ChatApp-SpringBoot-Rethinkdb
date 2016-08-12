@@ -19,6 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ChatApp-SpringBoot-Rethinkdb_main" target="1.8" />
+      <module name="ChatApp-SpringBoot-Rethinkdb_test" target="1.8" />
       <module name="rethinkdb_main" target="1.8" />
       <module name="rethinkdb_test" target="1.8" />
     </bytecodeTargetLevel>
